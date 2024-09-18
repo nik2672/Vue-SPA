@@ -1,5 +1,7 @@
 # assignment
+Created simple Vue.js SPA using vue cli.
 
+Access Website: https://astounding-haupia-b0161d.netlify.app
 ## Project setup
 ```
 npm install
