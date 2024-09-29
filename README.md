@@ -1,4 +1,4 @@
-# Assignment
+#Assignment
 Created simple Vue.js SPA using vue cli
 
 Access Website: https://astounding-haupia-b0161d.netlify.app
