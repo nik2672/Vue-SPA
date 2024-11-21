@@ -1,5 +1,7 @@
 #Assignment
-Created simple Vue.js SPA using vue cli
+Created simple Vue.js SPA using vue cli with a 
+- Welcome Page
+- List of Tasks Page 
 
 Access Website: https://astounding-haupia-b0161d.netlify.app
 ## Project setup
